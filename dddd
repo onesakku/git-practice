@@ -9,3 +9,9 @@ strList.add("이순신");
 strList.add("킹세종");
 strList.add("광개토");
 
+
+
+for(int i = 0 ; i < strList ; i++){
+  System.out.println(strList.get(i));
+}
+
